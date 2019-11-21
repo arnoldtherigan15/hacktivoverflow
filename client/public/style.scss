@@ -1,0 +1,51 @@
+.searchform {
+    width: 63vw !important;
+}
+
+.ti-new-tag-input-wrapper input[data-v-61d92e31] {
+    // background-color: #eeeeee !important;
+    // border: 1px solid #eeeeee !important;
+    padding: 10px !important;
+    margin: 0 !important;    
+}
+
+.ti-input[data-v-61d92e31] {
+    border: none;
+    // padding: 12px 15px;
+}
+
+.ti-tag[data-v-61d92e31] {
+    background-color: #df630d !important;
+}
+
+.nav-color {
+    background-color: white;
+}
+
+body {
+    height: 100vh;
+    overflow-x: hidden;
+    // background-color: #f1f1f1;
+}
+
+.foot {
+    margin: 0 !important;
+}
+
+
+.ql-editor {
+    height: 200px !important;
+    overflow: auto;
+}
+
+// pre .ql-syntax {
+//     background-color:red !important;
+//     padding: 20px !important;
+// }
+pre {
+    background-color:#f1f1f1 !important;
+    padding: 20px !important;
+    color: black !important;
+    height: 300px !important;
+    overflow: auto !important;
+}
